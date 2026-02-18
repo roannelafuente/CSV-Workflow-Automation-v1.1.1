@@ -3,6 +3,16 @@
 ## 📖 Description
 Minor update to the CSV Workflow Automation Tool, refining wafermap generation for improved consistency and formatting. This release focuses on polishing the wafermap output while maintaining all existing features from v1.1.0.
 
+---
+
+## 📌 Disclaimer
+This project is a portfolio demonstration built entirely with synthetic/dummy data.
+While the workbook structure and formatting are inspired by typical engineering workflows, all headers, values, and examples have been replaced with generic placeholders.
+No proprietary intellectual property, client data, or company‑specific conventions are included.
+Its sole purpose is to showcase automation techniques, reproducible workflows, and technical skills in Python, Tkinter, OpenPyXL, and xlwings.
+
+---
+
 ## 🚀 Changes in v1.1.1
 - Wafermap Update
 - Fixed indentation and execution flow in wafermap creation.
@@ -29,6 +39,14 @@ These files are dummy inputs included for demonstration purposes only. They are 
 ### GUI Dashboard
 ![GUI Dashboard](https://github.com/roannelafuente/CSV-Workflow-Automation-v1.1.1/blob/main/CSV%20Workflow%20Automation%20Dashboard%20v1.1.1.png)
 
+---
+
+## 🌟 Impact
+- Reduces manual effort in semiconductor deliverables preparation by automating CSV → Excel conversions and pivot table generation.
+- Ensures reproducibility and audit‑ready insights with deterministic wafermap color coding.
+- Improves accuracy in yield and defect tracking through validated End Test numbers and C1_MARK lookup.
+- Enhances usability with a polished GUI, making engineering workflows faster and more transparent.
+  
 ---
 
 ## 📦 Download
